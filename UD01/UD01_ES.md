@@ -32,7 +32,7 @@ Cada disciplina dispone de estrategias específicas para resolver problemas de s
 
   Ejemplos: 
 
-  - Dispones de 6 lapices/palillos/cerillas igual de largos, ¿como puedes formar 4 triángulos iguales  y equiláteros?
+  - Dispones de 6 lapices,palillos,cerillas igual de largos, ¿como puedes formar 4 triángulos iguales  y equiláteros?
 
   - Mueve 2 cerillas para seguir teniendo una copa pero con la cereza fuera:
 

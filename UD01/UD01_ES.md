@@ -113,7 +113,7 @@ Es necesario hacer énfasis en la naturaleza dinámica y cíclica de la solució
 >      - Realizar un dibujo o diagrama
 >
 > 1. **ANALIZAR LA SOLUCIÓN (Revisar).**
->      - Dar una respuesta completa
+>      - Dar una respuesta completa.
 >      - Hallar el mismo resultado de otra manera.
 >      - Verificar por apreciación que la respuesta es adecuada.
 

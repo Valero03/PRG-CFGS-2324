@@ -38,7 +38,7 @@ Cuando hablamos de Programación Orientada a Objetos, existen una serie de carac
 
 ## Características de los objetos
 
-En este contexto, un objeto de software es una representación de un objeto del mundo real, compuesto de una serie de características y un comportamiento específico. Pero ¿qué es más concretamente un objeto en Programación Orientada a Objetos? Veámoslo.
+En este contexto, un objeto de software es una representación de un objeto del mundo real, compuesto de una serie de características y un comportamiento específico. Pero ¿Qué es más concretamente un objeto en Programación Orientada a Objetos? Veámoslo.
 
 > ### Un objeto es un conjunto de datos con las operaciones definidas para ellos. Los objetos tienen un estado y un comportamiento.
 

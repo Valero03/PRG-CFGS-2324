@@ -110,7 +110,7 @@ Es necesario hacer énfasis en la naturaleza dinámica y cíclica de la solució
 > 1. **EJECUTAR EL PLAN (Resolver).**
 >      - Ejecutar en detalle cada operación.
 >      - Simplificar antes de calcular.
->      - Realizar un dibujo o diagrama
+>      - Realizar un dibujo o diagrama.
 >
 > 1. **ANALIZAR LA SOLUCIÓN (Revisar).**
 >      - Dar una respuesta completa.

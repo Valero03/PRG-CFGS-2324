@@ -101,7 +101,7 @@ int pot2 = Math.pow(a,6);
 ...
 ```
 
-En la definición de un método se distinguen dos partes
+En la definición de un método se distinguen dos partes:
 
 - **La cabecera**, en la cual se indica información relevante sobre el método
 - **El cuerpo**, que contiene las instrucciones mediante las cuales el método realiza su tarea
